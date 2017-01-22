@@ -1,6 +1,6 @@
 ```yaml
 conference:
-  name: 'Test conference'
+  name: 'Test conference test'
   description: 'conference description'
   web: www.conference.org
   email: conference@conference.org
